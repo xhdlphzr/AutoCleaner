@@ -1,12 +1,12 @@
 {
-    "id": "clear",
+    "id": "auto_cleaner",
     "version": "1.0.0",
-    "name": "ClearPlugin",
+    "name": "AutoCleaner",
     "description": {
         "en_us": "A plugin for both manual and automatic clearing of server items and creepers",
         "zh_cn": "一个手自一体清理服务器掉落物和苦力怕的插件"
     },
-    "link": "https://github.com/xhdlphzr/ClearPlugin",
+    "link": "https://github.com/xhdlphzr/AutoCleaner",
     "authors": [
         {
             "name": "xhdlphzr",
